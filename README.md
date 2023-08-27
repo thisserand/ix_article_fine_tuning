@@ -1,0 +1,2 @@
+# ix_article_fine_tuning
+I wrote an article for a German IT magazine called iX explaining how to efficiently fine-tune LLMs. This repository contains the Jupyter notebook, which contains the code of all the listings shown in the article. Additionally, I created a [Colab notebook](https://colab.research.google.com/drive/13RrohcPQcz4cWGSXFw_GbFs-tDF07o67?usp=sharing) which allows you to fine-tune LLMs for free.
